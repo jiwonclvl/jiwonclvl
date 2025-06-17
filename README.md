@@ -41,6 +41,11 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonclvl)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
+<br>
+
+## Velog
+
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@clvl1004/posts)
 
 
